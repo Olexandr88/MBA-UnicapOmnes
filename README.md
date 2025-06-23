@@ -2,7 +2,6 @@
 
 **Template repository for getting started quickly with Hardhat and Foundry in one project - Deploy and verify whith truffle**
 
-![Github Actions]()
 
 ### Getting Started
 
